@@ -1,4 +1,19 @@
-## Hi there 👋
+## 👋 About Me
+
+AWS / Terraform を中心にインフラ構築を学習中
+
+## 🚀 Skills
+- AWS（EC2 / ALB / Auto Scaling / Route53）
+- Terraform（IaC）
+- Linux
+
+## 📌 Portfolio
+- https://github.com/tclinux/terraform-aws-nginx-alb
+
+- ## 📝 Article
+
+構築手順の詳細はこちら  
+👉 https://qiita.com/xxxx
 
 <!--
 **tclinux/tclinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
