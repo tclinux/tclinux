@@ -13,7 +13,7 @@ AWS / Terraform を中心にインフラ構築を学習中
 - ## 📝 Article
 
 構築手順の詳細はこちら  
-👉 https://qiita.com/xxxx
+👉 https://qiita.com/tclinux
 
 <!--
 **tclinux/tclinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
