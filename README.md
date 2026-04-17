@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-AWS / Terraform を中心にインフラ構築を学習中
+AWS / Terraform を中心にインフラ構築を学習中。
+ALB + Auto Scaling を用いたスケーラブルなWebインフラを構築。
 
 ## 🧪 Demo
 - https://net-4.net
